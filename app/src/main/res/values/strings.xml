@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Caracola Magica App</string>
+    <string name="preguntale_a_la_caracola_magica">Preguntale a la caracola magica</string>
+    <string name="empty_view">Send a answer to start conversation</string>
 </resources>
